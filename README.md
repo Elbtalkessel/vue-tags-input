@@ -1,4 +1,4 @@
-# vue-tags-input
+# vue-tags-input updated
 
 A tags input component for VueJS with autocompletion, custom validation, templating and much more
 
@@ -6,28 +6,30 @@ A tags input component for VueJS with autocompletion, custom validation, templat
 
 ## Features
 
-* No dependencies
-* Custom validation rules
-* Hooks: Before adding, Before deleting ...
-* Edit tags after creation
-* Fast setup
-* Works with Vuex
-* Small size: 34kb minified (css included) | gzipped 9kb
-* Autocompletion
-* Many customization options
-* Own templates
-* Delete tags on backspace
-* Add tags on paste
-* Examples & Docs
+- Single dependency
+- Custom validation rules
+- Hooks: Before adding, Before deleting ...
+- Edit tags after creation
+- Fast setup
+- Works with Vuex
+- Small size: 34kb minified (css included) | gzipped 9kb
+- Autocompletion
+- Many customization options
+- Own templates
+- Delete tags on backspace
+- Add tags on paste
+- Examples & Docs
 
 ## Install
 
 NPM
+
 ```
 npm install @johmun/vue-tags-input
 ```
 
 CDN
+
 ```
 <script src="https://unpkg.com/@johmun/vue-tags-input/dist/vue-tags-input.js"></script>
 ```
